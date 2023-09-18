@@ -41,7 +41,7 @@ function App() {
 
 
   return (
-      <div>
+      <div className='principal'>
         <WeatherCard 
         weather={weather}
         temp={temp}
